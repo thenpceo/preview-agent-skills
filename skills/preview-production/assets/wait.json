@@ -1,0 +1,6 @@
+{
+  "projectId": "PROJECT_ID",
+  "takeId": "ACTUAL_RETURNED_NEW_TAKE_ID",
+  "timeoutMs": 30000,
+  "pollIntervalMs": 2000
+}

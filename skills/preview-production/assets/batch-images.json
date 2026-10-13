@@ -1,0 +1,14 @@
+{
+  "projectId": "PROJECT_ID",
+  "canvasId": "CANVAS_ID",
+  "sceneId": "SCENE_ID",
+  "groupId": "GROUP_ID",
+  "model": "EXACT_LIVE_MODEL_ID",
+  "aspectRatio": "16:9",
+  "resolution": "2K",
+  "items": [
+    {
+      "prompt": "Create one continuous photographic first frame. @take:{CHARACTER_TAKE_ID} controls identity and wardrobe. @take:{LOCATION_TAKE_ID} controls geography. Describe the verified opening instant, camera, composition and light here. Exclude reference-sheet panels and labels."
+    }
+  ]
+}

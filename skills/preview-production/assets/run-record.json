@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "stage": "prepared",
+  "source": {"path": "SOURCE_DOCUMENT", "pages": [], "concept": "CONCEPT"},
+  "destination": {"project_id": "PROJECT_ID", "canvas_id": "CANVAS_ID", "story_id": "STORY_ID", "scene_id": "SCENE_ID", "group_id": "GROUP_ID"},
+  "authorization": {"scope": "RECORD_ACTUAL_USER_SCOPE", "credit_ceiling": null},
+  "settings": {"model": "EXACT_LIVE_MODEL_ID", "aspect_ratio": "16:9", "resolution": "2K"},
+  "references": [],
+  "shots": [],
+  "submission": {"input_path": "batch-images.json", "receipt_path": null, "new_take_ids": [], "preflight_estimate": null, "submission_estimate": null, "actual_billed_credits": null},
+  "review": {"visual_qa": "pending", "layout": "pending", "human_acceptance": "pending"},
+  "pending_actions": []
+}

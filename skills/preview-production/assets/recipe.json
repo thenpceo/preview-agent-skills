@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "scope_id": null,
+  "item_id": null,
+  "phase": null,
+  "revision": null,
+  "output_take_id": null,
+  "parent_take_ids": [],
+  "effective_prompt": null,
+  "negative_prompt": null,
+  "model": null,
+  "settings": {
+    "aspect_ratio": null,
+    "resolution": null,
+    "duration_seconds": null,
+    "audio": null,
+    "seed": null,
+    "camera_bag": null,
+    "quick_style": null,
+    "video_reference_mode": null
+  },
+  "references": [
+    {
+      "canonical_token": null,
+      "source_id": null,
+      "library_item_id": null,
+      "variation": null,
+      "approved_attachment_id": null,
+      "approved_version": null,
+      "role": null,
+      "decision_evidence": null,
+      "use_state": "unverified"
+    }
+  ],
+  "video_bindings": {
+    "start_frame": null,
+    "end_frame": null,
+    "motion_video": null,
+    "edit_source": null,
+    "performance_clip": null,
+    "source_in": null,
+    "source_out": null,
+    "fps": null,
+    "handles": null
+  },
+  "voice_bindings": [],
+  "request_file": null,
+  "receipt_file": null,
+  "external_source_project": null,
+  "external_workflow_version": null,
+  "changed_variables": [],
+  "author": null,
+  "created_at": null,
+  "provider_status": null,
+  "visual_review": null,
+  "approval_evidence": null
+}

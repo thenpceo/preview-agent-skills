@@ -1,0 +1,4 @@
+interface:
+  display_name: "Preview Production"
+  short_description: "Manage Preview workflows, approvals, and production"
+  default_prompt: "Use $preview-production to inspect this project's workflow and carry out the requested setup, production, review, or delivery while preserving existing work and checking approval authority."

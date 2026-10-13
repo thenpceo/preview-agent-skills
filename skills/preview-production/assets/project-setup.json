@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "kind": "project_setup_specification_not_api_payload",
+  "project_id": null,
+  "project_name": null,
+  "creative_script_ids": [],
+  "structure": {
+    "scope_type": null,
+    "phase_categories": [
+      "References",
+      "First Frames",
+      "Animation"
+    ],
+    "scopes": [
+      {
+        "scope_name": null,
+        "script_id_or_location_name": null,
+        "canvases": [],
+        "shotlist_id": null,
+        "deliverable_sequences": [],
+        "items": []
+      }
+    ],
+    "preserve_existing_structure": true,
+    "confirmed_untouched_placeholder_ids": [],
+    "authorized_existing_changes": []
+  },
+  "approval_policy": {
+    "confirmed": false,
+    "reference_approver": {
+      "person_or_user_id": null,
+      "role": null
+    },
+    "internal_reviewer": {
+      "person_or_user_id": null,
+      "role": null
+    },
+    "final_creative_approver": {
+      "person_or_user_id": null,
+      "role": null
+    },
+    "producer_release_owner": {
+      "person_or_user_id": null,
+      "role": null
+    },
+    "policy_evidence": null
+  },
+  "external_storage": {
+    "root": null,
+    "review_index_path": null,
+    "current_review_pointer": null,
+    "last_approved_pointer": null
+  },
+  "delivery_specs": {
+    "aspect_ratio": null,
+    "resolution": null,
+    "fps": null,
+    "codec": null,
+    "audio": null
+  },
+  "open_decisions": []
+}

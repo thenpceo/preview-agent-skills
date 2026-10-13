@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "scope_id": null,
+  "item_id": null,
+  "shot_id": null,
+  "phase": null,
+  "current_owner": null,
+  "current_submission": {
+    "take_id": null,
+    "revision": null,
+    "link": null,
+    "status": null
+  },
+  "last_approved": {
+    "take_id": null,
+    "attachment_ids": [],
+    "revision": null,
+    "phase_or_state": null,
+    "approver": null,
+    "approved_at": null,
+    "evidence": null,
+    "valid_for_current_brief": null
+  },
+  "active_canvas_link": null,
+  "active_group_link": null,
+  "round": null,
+  "batch": null,
+  "artist_initials": null,
+  "recipe_paths": [],
+  "parent_take_ids": [],
+  "open_comment_links": [],
+  "blocker": null,
+  "dependencies": [],
+  "next_action": null,
+  "next_owner": null,
+  "live_job_ids": [],
+  "updated_at": null
+}

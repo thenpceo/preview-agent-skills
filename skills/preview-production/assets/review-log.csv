@@ -1,0 +1,2 @@
+source_shot,take_id,parent_take_id,variant,generation_status,visual_review,group_membership,layout_verification,human_acceptance,notes
+01,TAKE_ID,SOURCE_TAKE_ID,base,pending,pending,pending,pending,pending,
