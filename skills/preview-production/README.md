@@ -16,13 +16,13 @@ Use your own Preview account and authorized project. The [official CLI/connector
 
 ## What is configurable
 
-Choose actual work phases, script/location scopes, names/counts, shots/reference coverage, assignees, reviewers, reference/final approvers, producer, storage root and output specs. References / First Frames / Animation is a starting structure, not a universal requirement. Producer reference approval and director shot approval is an example authority policy, confirmed per job.
+Choose actual scripts, milestone canvases, review scopes, names/counts, shots/reference coverage, assignees, reviewers, reference/final approvers, producer, storage root and output specs. The default is Project → script categories → milestone canvases → dated, initialed round groups. References / First Frames / Animation are example milestones; adapt them to the deliverables. Locations can have work groups/rows within a milestone canvas and reusable library entries. Producer reference approval and director shot approval is an example authority policy, confirmed per job.
 
 Agents inspect existing structure before writes. They adapt confirmed unused placeholders within authorized setup, ask before unrequested changes to established work, and verify exact approval before promoting reference media or marking final decisions. Draft library metadata can be created earlier. Installing the skill does not authorize paid generation, live migrations, sharing or sending media.
 
 ## Example requests
 
-> Use $preview-production to set up this new project with References, First Frames and Animation categories and Script A/Script B scopes. Inspect existing records first, adapt untouched placeholders, and preserve any established work. Build the agreed breakdown, briefs, references and assignments without generating media.
+> Use $preview-production to set up this new project with Script A and Script B categories, each containing References, First Frames and Animation canvases. Use script-prefixed titles and numbered milestones for clear ordering. Inspect existing records first, adapt untouched placeholders, and preserve established work. Build matching script shotlists with deliverable sequences, briefs, references and assignments without generating media.
 
 > Use $preview-production to prepare a revision of SH04 from its current take and feedback. Preserve the last approved choice, recover the full recipe and target the active round group. Report the proposed run separately from submission.
 

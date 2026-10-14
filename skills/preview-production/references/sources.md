@@ -17,3 +17,5 @@ The package contains generic original guidance and templates. It contains no acc
 Use scripts/discover_preview.py for help/catalog/core schemas, --schemas for a focused set, or --all-schemas when a full capture is needed. Fetch the current docs index and relevant topics. Read authenticated model/settings/cost capabilities before paid work. Keep account/project captures local and outside shareable packages.
 
 When behavior changes, correct the narrow instruction and distinguish documented product behavior, interface-specific schema, observed UI and suggested production convention. Do not turn a historical absence of a field or one model failure into a universal restriction.
+
+Workflow revision: 2026-10-14. The preferred canvas hierarchy is script categories → milestone canvases → dated, initialed round groups. The former milestone-category hierarchy is superseded for new setups. Native canvas picker Section rename/Move to and alphabetical sorting were rechecked. This is a team convention; existing projects require an authorized migration.

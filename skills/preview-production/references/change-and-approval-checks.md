@@ -13,6 +13,7 @@ An unused template placeholder needs generic naming AND default/example content 
 | User specifies sequence names/order; only confirmed untouched placeholders exist | Briefly explain the mapping and adapt within setup authorization. Preserve useful IDs and verify names/order/counts. |
 | A lead created a meaningful sequence, canvas, breakdown or library entry | Reuse when appropriate. Ask before an unrequested replacement, rename, merge, move or restructure. |
 | Exact change to established work is explicitly approved | Apply that delta without asking again; preserve unrelated fields/history. |
+| A project's categories differ from this skill's preferred script → milestone hierarchy | Recommend the structure when relevant; do not migrate established categories just to match the skill. An authorized category migration moves existing canvases by ID and preserves groups, manual geometry, media, review records and approvals. |
 | A matching record exists under another name | Resolve its purpose before duplicating; ask about reuse/rename only when ambiguity affects the task. |
 | An addition would conflict or duplicate an approval queue | Prepare the concrete addition; confirm reuse, extension or separate deliverable. |
 | Shared Notes, Script or selection changed since inspection | Re-read and reconcile; stop the conflicting overwrite. Do not remove a precondition to force a retry. |

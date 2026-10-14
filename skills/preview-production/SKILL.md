@@ -24,11 +24,11 @@ Load only what the task needs. [Documentation guide](references/documentation-gu
 
 Promote this default, adapting it to the job:
 
-**Project → work-phase canvas categories → persistent script/location canvases → dated, initialed round groups → named item rows → attempts.**
+**Project → script canvas categories → persistent milestone canvases → dated, initialed round groups → named item rows → attempts.**
 
 **Project → one shotlist per script/location scope → deliverable sequences → named shots/reference review items → assigned takes and official status.**
 
-These are parallel structures: a canvas category does not contain a sequence. Matching shotlists connect visual work to production records. Start with References / First Frames / Animation when appropriate; other jobs may use Previz + Lookdev / Animation / Final VFX. Date groups and review packages instead of resetting canvases daily. Assignees identify ownership; canvases are shared by scope rather than artist.
+These are parallel structures: a canvas category does not contain a sequence. Each script category contains that script's milestone canvases, such as References / First Frames / Animation; other jobs may use Previz + Lookdev / Animation / Final VFX. Name canvases unambiguously, for example `Script A · 01 References`, `Script A · 02 First Frames`, `Script A · 03 Animation`; ordinal prefixes keep milestones in order under alphabetical sorting. Matching shotlists connect visual work to production records. Start with one shotlist per script; retain an agreed location split when it serves review without automatically restructuring it. Locations are work groups or named item rows inside milestone canvases, with shared approved library references. Date groups and review packages instead of resetting canvases daily. Assignees identify ownership; canvases are shared by script and milestone rather than artist. Apply this convention to new setups; migrate existing categories only when authorized.
 
 | Product concept | Technical identity | Meaning |
 | --- | --- | --- |
@@ -74,7 +74,7 @@ Follow host generation-card instructions. A queued-only assignment ends after ve
 
 ## Portable resources
 
-- [Project setup](assets/project-setup.json): phases, scopes, owners, approval policy, coverage and destinations.
+- [Project setup](assets/project-setup.json): script categories, milestone canvases, review scopes, owners, approval policy, coverage and destinations.
 - [Handoff](assets/handoff.json), [recipe](assets/recipe.json), [selects register](assets/current-selects.csv), [delivery manifest](assets/delivery-manifest.csv): exact-version lineage/decisions derived from Preview, not a competing tracker.
 - [Workflow guide](assets/workflow-guide.md): generic human-facing guide to adapt into a project Script; keep the creative screenplay separate.
 - Request/run templates under `assets/` are illustrative. Replace placeholders and validate live schemas. Never bundle credentials or real production IDs into the skill.

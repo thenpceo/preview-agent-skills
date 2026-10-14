@@ -16,19 +16,19 @@ Search this Script with ⌘/Ctrl F. Keep this guide in Scripts when adapting the
 
 ## 01 — Project lead: set up the job
 
-**1. Choose the work phases and scopes**
+**1. Choose scripts and milestones**
 
-Canvas categories describe the work phase. Canvases describe the script or location being worked on. The template starts with References, First Frames and Animation, each containing Location/Script 1 and Location/Script 2. Replace those placeholders with the actual job names and create only the canvases needed.
+Canvas categories describe the creative script. Each category contains that script's milestone canvases. The template has Script 1 and Script 2 categories, each with References, First Frames and Animation canvases. Use clear titles such as Script 1 · 01 References, Script 1 · 02 First Frames and Script 1 · 03 Animation. The numbers keep milestones in order under alphabetical sorting. Rename the script placeholders and adapt the milestones to the actual deliverables.
 
-Multi-script example: References / First Frames / Animation, each with Script A, Script B, Script C and Script D canvases. Four scripts have four matching shot lists.
+Multi-script example: Script A, Script B, Script C and Script D are four categories. Each contains its own References, First Frames and Animation canvases. Create four matching script shot lists, with deliverable sequences inside each.
 
-Location example: Previz + Lookdev / Animation / Final VFX, with canvases named Location A, Location B and Location C. Work is split by location within one script. References and character development belong in Previz + Lookdev; Animation includes the AI draft/animatic. Adapt these examples to the actual job.
+One-script example: one Script A category contains Previz + Lookdev, Animation and Final VFX canvases. Work on its locations in named groups or rows inside each milestone canvas. References and character development belong in Previz + Lookdev; Animation includes the AI draft/animatic. Use shared approved Character/Location/Prop entries across milestones. The lead may authorize a location-specific continuation canvas when the volume requires it; keep that canvas inside the script category.
 
 **2. Match the shot lists and sequences**
 
-Create one shot list per chosen script or location scope. Inside it, create a sequence for each deliverable that needs its own review. For the basic template, use References, First Frames and Animation. Name the shot list and corresponding canvases consistently so anyone can find both.
+Start with one shot list per script. Inside it, create a sequence for each deliverable that needs its own review. For the basic template, use References, First Frames and Animation. Keep script names consistent between the category, canvases and shot list. Preserve an established location-based shot-list split unless a change is explicitly requested; reorganizing canvas categories does not require rebuilding sequences or review items.
 
-For a job with extra deliverables, adapt the sequences: References, Previz, Lookdev Frames, Location Studies, Clean Plates, AI Draft and Final VFX are possible examples. A single canvas category can support several deliverable sequences in the matching shot lists. A location still, its 10-second video and a clean shot-angle plate need separate review items if each needs a separate decision. Optional world/scan work gets a slot only when it becomes a required deliverable.
+For a job with extra deliverables, adapt the sequences: References, Previz, Lookdev Frames, Location Studies, Clean Plates, AI Draft and Final VFX are possible examples. One milestone canvas may support several deliverable sequences in the script's shot list. A location still, its 10-second video and a clean shot-angle plate need separate review items if each needs a separate decision. Optional world/scan work gets a slot only when it becomes a required deliverable.
 
 **3. Define the shot breakdown before generating**
 
@@ -60,9 +60,9 @@ Identifiable extras are Characters: create one stable identity per recurring ext
 
 Use the template's Reference Sandbox, Archive and dated R00/R01 groups as a starting layout. In a reference canvas, the LOC, CHAR and PROP groups separate the work. In First Frames and Animation, SH01, SH02 and SH03 groups demonstrate shot passes. Add or remove unused sample groups and review items deliberately to match the real job.
 
-Replace [DATE], [ScriptName] and [Initials]. For a location based job, [ScriptName] in group labels means the location/work scope; the exported filename still names the creative script. Keep groups flat: Preview does not nest groups. Paste headings where useful and use sticky notes for the brief, active work index and handoff.
+Replace [DATE], [ScriptName] and [Initials]. ScriptName identifies the creative script. Use a separate location or item name when labeling work groups and rows. Keep groups flat: Preview does not nest groups. Paste headings where useful and use sticky notes for the brief, active work index and handoff. Dates and initials belong on round groups, not new daily canvases.
 
-Keep canvases across days. Date the groups and review packages. Approved library references provide the shared source across phase canvases; use precise references instead of copying yesterday's whole board. The lead owns the initial organization, and artists preserve that manual layout. Agents adapt confirmed unused placeholders within setup authorization; they ask before unrequested changes to established sequences, canvases, shot plans or library identities.
+Keep canvases across days. Date the groups and review packages. Approved library references provide the shared source across milestone canvases; use precise references instead of copying yesterday's whole board. The lead owns the initial organization, and artists preserve that manual layout. Agents adapt confirmed unused placeholders within setup authorization; they ask before unrequested changes to established sequences, canvases, shot plans or library identities.
 
 Choose the external storage root (for example, Suite) and delivery specs at kickoff. Keep a stable review index with Preview shot list/sequence links, the current review package and the last approved package. Save native projects and recipe files under the relevant scope and phase. Dates belong on review packages and work rounds.
 
@@ -182,7 +182,7 @@ LIVE JOBS / UPDATED AT: [IDs if running; timestamp]
 
 **Lead setup request**
 
-“Read this workflow guide and the creative script. Set up [project] for [phases] and [scripts/locations]. Build the matching canvases, shot lists, sequences and named review items; fill briefs and references; assign the agreed artists. Preserve existing canvas layouts. Report missing decisions and verify the resulting records. Do not generate media.”
+“Read this workflow guide and the creative script. Set up [project] with one category per [script] and [milestone] canvases inside each. Build the matching script shot lists, deliverable sequences and named review items; fill briefs and references; assign the agreed artists. Preserve existing canvas layouts. Report missing decisions and verify the resulting records. Do not generate media.”
 
 **Artist handoff request**
 

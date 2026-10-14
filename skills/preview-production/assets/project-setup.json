@@ -1,29 +1,47 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "kind": "project_setup_specification_not_api_payload",
   "project_id": null,
   "project_name": null,
   "creative_script_ids": [],
   "structure": {
-    "scope_type": null,
-    "phase_categories": [
+    "preserve_existing_structure": true,
+    "confirmed_untouched_placeholder_ids": [],
+    "authorized_existing_changes": [],
+    "canvas_category_axis": "script",
+    "canvas_axis": "milestone",
+    "default_milestones": [
       "References",
       "First Frames",
       "Animation"
     ],
-    "scopes": [
+    "canvas_title_pattern": "{script_name} \u00b7 {milestone_order:02d} {milestone_name}",
+    "script_categories": [
       {
-        "scope_name": null,
-        "script_id_or_location_name": null,
-        "canvases": [],
-        "shotlist_id": null,
-        "deliverable_sequences": [],
-        "items": []
+        "script_name": null,
+        "creative_script_id": null,
+        "category_name": null,
+        "milestone_canvases": [
+          {
+            "milestone_name": null,
+            "milestone_order": null,
+            "canvas_name": null,
+            "canvas_id": null,
+            "location_work_groups": []
+          }
+        ],
+        "review_scopes": [
+          {
+            "scope_name": null,
+            "scope_type": "script",
+            "shotlist_id": null,
+            "deliverable_sequences": [],
+            "items": []
+          }
+        ]
       }
     ],
-    "preserve_existing_structure": true,
-    "confirmed_untouched_placeholder_ids": [],
-    "authorized_existing_changes": []
+    "migration_requires_explicit_authorization": true
   },
   "approval_policy": {
     "confirmed": false,

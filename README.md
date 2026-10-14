@@ -29,9 +29,11 @@ Ask the agent to use `$preview-production` for setup, production, review or deli
 
 For example:
 
-> Use $preview-production to set up this job with the agreed work phases and script/location scopes. Inspect existing records, preserve established work, and confirm approval authority before promoting references.
+> Use $preview-production to set up this job with a category per script and the agreed milestone canvases inside each. Inspect existing records, preserve established work, and confirm approval authority before promoting references.
 
 > Use $preview-provenance to inspect this saved Premiere sequence and map its clips to Preview take links and recipes. Keep unmatched or transformed media explicit.
+
+The default canvas hierarchy is **Project → script categories → milestone canvases → dated, initialed revision groups**. The lead adapts milestones to the actual job. Matching script shotlists contain deliverable sequences for review. Established projects are reorganized only when explicitly authorized.
 
 The production skill separates artist selections, exact-version approval and release. The provenance skill identifies source lineage; it does not establish approval.
 

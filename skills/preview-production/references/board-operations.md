@@ -1,6 +1,10 @@
 # Canvas UI, staging and comments
 
-Read [Project workflow](project-workflow.md) for phase/scope/round conventions and [Change and approval checks](change-and-approval-checks.md) before altering established work. This file covers supported UI mechanics and evidence.
+Read [Project workflow](project-workflow.md) for script/milestone/round conventions and [Change and approval checks](change-and-approval-checks.md) before altering established work. This file covers supported UI mechanics and evidence.
+
+## Script categories and milestone canvases
+
+Canvas categories appear as Sections in the observed canvas picker. Use one per script and keep milestone canvases inside it. The observed normal UI supports Section actions → Rename and Canvas actions → Move to → existing section. Category moves change navigation membership, not the contents of the canvas. Verify every existing canvas remains under its intended script. Retire a former category only after confirming it is empty. Alphabetical sorting can use numbered milestone titles such as `Script A · 01 References`. Recheck live tools for category support before choosing UI; do not invent a section API or rebuild canvases to work around missing support.
 
 ## Resolve the actual canvas
 
