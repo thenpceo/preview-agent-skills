@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "scope_id": null,
   "item_id": null,
   "phase": null,
@@ -29,7 +29,13 @@
       "approved_version": null,
       "role": null,
       "decision_evidence": null,
-      "use_state": "unverified"
+      "use_state": "unverified",
+      "version_folder": null,
+      "version_folder_index": null,
+      "attachment_ids": [],
+      "take_ids": [],
+      "selection_policy": "latest populated version of intended look unless explicitly pinned",
+      "version_pin_reason": null
     }
   ],
   "video_bindings": {

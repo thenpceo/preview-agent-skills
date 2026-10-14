@@ -4,7 +4,7 @@ Use [Project workflow](project-workflow.md) for producer responsibilities and [C
 
 ## Select the right purpose and take
 
-A review deck may contain nominated pending work labeled with version/status. A final approved release needs required coverage and valid configured approvals for its purpose. Use the owning production item plus exact current submission/last approved IDs, not canvas dates or a green tag. Preserve the prior approved package when preparing a revision.
+A review deck may contain nominated pending work labeled with version/status. A final approved release needs required coverage and valid configured approvals for its purpose. Use film-item Notes or the reference master's version-labeled Details plus exact current submission/last approved IDs, not canvas dates or a green tag. Preserve the prior approved package when preparing a revision.
 
 Verify the displayed/selected take before export: it can change while browsing alternates. Group download, selected files, sequence export and shotlist export are different scopes. Choose the requested one and compare files to the recorded IDs.
 
@@ -16,7 +16,7 @@ Acquire the original through supported download/export/media URLs, not a resized
 
 ## Library filing is a different operation
 
-Typed Character/Location/Prop promotion uses configured reference approval and exact variation attachments. General assets/folders store reusable files. Canvas groups and external storage folders are neither.
+Selected Character/Location/Prop images go directly into version folders for review, before approval. Use [Versioned reference library](versioned-reference-library.md) for the master, latest intended look/version and exact image decisions. Final approved reference packages need the configured approval evidence. General assets/folders store reusable files; canvas groups and external storage folders are distinct.
 
 Inspect saveTakeToAssets/createAssetFolder/moveAssetsToFolder/updateAsset when filing general assets. Saving a take reuses underlying storage; folders should exist before filing. Folder moves do not move cards or confer approval. Resolve existing destinations before creating duplicates. See [Project Library](https://docs.preview.io/preview/project-library).
 

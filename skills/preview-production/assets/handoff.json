@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "scope_id": null,
   "item_id": null,
   "shot_id": null,
@@ -36,5 +36,14 @@
   "live_job_ids": [],
   "updated_at": null,
   "required_asset_parts": [],
-  "asset_part_selections": []
+  "asset_part_selections": [],
+  "reference_version": {
+    "library_item_id": null,
+    "look": null,
+    "version_folder": null,
+    "version_folder_index": null,
+    "current_attachment_ids": [],
+    "review_state": null,
+    "decision_evidence": null
+  }
 }

@@ -8,13 +8,13 @@ These are reusable lessons from still-board and source-video production, not cla
 
 **Keep source provenance clear.** Real/source references, generated sheets, finished frames, and rejected alternatives have different roles. If Preview-native generation is requested, don't silently substitute an externally generated draft as a source or represent an imported image as a native Preview take. External look-development drafts remain drafts unless selected.
 
-**Don't generate redundant sheets.** Equipment already embedded in a chosen character sheet may need no separate prop sheet. A crowd reference isn't necessary for every background extra. Meaningful costume/action states can be variations; additional angles of the same state belong to that state's image set.
+**Don't generate redundant sheets or crowd identities.** Equipment already embedded in a chosen character sheet may need no separate prop sheet. Use one master Character per scene extras group, with member images or one composite in its version folder. Named looks use folders such as Pajamas V001 beneath the master; additional angles of that look/version belong together. See [Versioned reference library](versioned-reference-library.md).
 
 **Character-sheet layout is a choice.** A large full-body figure at left and sectioned angles/details at right worked well for human review. The exact built-in Character Creation preset is a different operation. Don't claim a hand-prompted sheet invoked that preset. Avoid background/location spill into identity references.
 
 **Locations need actual spatial continuity.** Multi-angle sheets should describe one physical set, with consistent doors, road directions, furniture, vehicle entry, and lighting. A polished montage of incompatible environments is not a usable location reference. Isolated objects and environment-only sources reduce unwanted background/people transfer.
 
-**Provisional anchors stay provisional.** A corrected anchor remains in review until accepted under the configured policy. It may serve as a bounded provisional input when explicitly authorized, with its role/state recorded and kept out of the approved library baseline. See [Change and approval checks](change-and-approval-checks.md).
+**Provisional anchors stay provisional.** Save selected reference images directly into their version folder for review. The latest working folder may supply provisional inputs within the authorized run, with its role/state recorded; storage does not make it an approved baseline. See [Change and approval checks](change-and-approval-checks.md).
 
 ## Anchors and camera direction
 

@@ -23,7 +23,7 @@ CLI/MCP provide supported production data operations; these UI pages are not a c
 | --- | --- |
 | [Prompt Box](https://docs.preview.io/preview/prompt-box-overview) | Model/settings/reference limits, audio, negative prompts, start/end frames and credit preflight. The prompt box is hidden while Preview Agent's panel is open. |
 | [Preview Agent](https://docs.preview.io/preview/agent) | Native creative/planning assistant, Ask/Auto modes, reference selection and co-authored take history. Native approval mode is not the external agent's authorization policy. |
-| [Referencing with @](https://docs.preview.io/preview/at-references) | Saved library items/variations, uploads and finished generations. Pending generations aren't valid dependent references. |
+| [Referencing with @](https://docs.preview.io/preview/at-references) | Saved library items, folders/variations and images; one model reference slot per image. Explicitly select the latest intended version folder under our workflow. Pending generations aren't valid dependent references. |
 | [Next Take Box](https://docs.preview.io/preview/next-take-box) | UI placement target, grid width and camera-follow. Placement may snap below to fit a row; group targeting uses its own placeholders instead. |
 | [Quick Actions](https://docs.preview.io/preview/quick-actions) | Exact built-in character sheets, coverage, beats, production-design and related presets. The documented character preset produces 11 panels. Generic library creation or hand-prompted generation isn't that preset. |
 | [Quick Styles & Camera Bag](https://docs.preview.io/preview/quick-styles) | Reusable styling/camera presets. Documented UI controls use Nano Banana Pro and select one treatment at a time; use live catalog IDs for structured settings. |
@@ -43,7 +43,7 @@ The checked CLI 0.2.1 video schema supports videoReferenceMode=edit for models a
 | --- | --- |
 | [File Toolbar](https://docs.preview.io/preview/file-toolbar) | Reuse prompt, references, compare, download, tags and multi-selection. Video actions include frame extraction, trim, speed and auto-split; they aren't image inpainting. |
 | [File View](https://docs.preview.io/preview/preview-window) | One-file full-size inspection, prompt/settings/cost, lineage, references and comments. Images have split/fade/side-by-side comparison. |
-| [Project Library](https://docs.preview.io/preview/project-library) | Characters/locations/props, uploads, and meaningful variations. Add multiple angles to the same variation; reserve variations for different visual states. |
+| [Project Library](https://docs.preview.io/preview/project-library) | Characters/locations/props and multi-image variation folders. The product describes meaningful looks; our [versioned library convention](versioned-reference-library.md) names these folders V001/V002 and Pajamas V001/V002 for submission and review. |
 | [History](https://docs.preview.io/preview/history) | Whole-project recovery, cross-studio files and worlds. Removing a canvas display isn't the same as deleting library/project data. |
 | [Groups](https://docs.preview.io/preview/groups) | Create before large runs, enter/target a group, grid/column controls, duplicate/export/ungroup. Save selected member files to the library rather than assuming a group-level entity. |
 | [Tags](https://docs.preview.io/preview/tags) | Project-wide color tags and tag management in canvas/Files. The documented limit is ten tags per project; verify live constraints and reuse established tags. |

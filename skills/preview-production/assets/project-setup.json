@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "kind": "project_setup_specification_not_api_payload",
   "project_id": null,
   "project_name": null,
@@ -15,7 +15,7 @@
       "First Frames",
       "Animation"
     ],
-    "canvas_title_pattern": "{script_name} \u00b7 {milestone_order:02d} {milestone_name}",
+    "canvas_title_pattern": "{script_name} · {milestone_order:02d} {milestone_name}",
     "script_categories": [
       {
         "script_name": null,
@@ -88,5 +88,24 @@
     "shotlist_and_sequence": "One short purpose/coverage sentence, where a native field is supported.",
     "shot": "One or two short sentences: action/framing plus required panels/parts.",
     "detail_location": "Notes and native technical fields"
+  },
+  "reference_library_policy": {
+    "submission_home": "Character/Location/Prop version folder",
+    "reference_sequence_required": false,
+    "one_master_per": "logical asset or scene extras group",
+    "initial_folder": "V001",
+    "revision_folder_pattern": "V{version:03d}",
+    "named_look_folder_pattern": "{look_name} V{version:03d}",
+    "multiple_images_per_folder": true,
+    "extras_image_options": [
+      "individual member images",
+      "one composite"
+    ],
+    "new_prompt_selection": "latest populated numeric version in intended base/look family",
+    "explicit_folder_or_attachment_selection_required": true,
+    "automatic_latest_routing_claimed": false,
+    "review_record_home": "master Details/description labeled by folder, linked source comments",
+    "latest_and_approved_are_separate": true,
+    "preserve_older_versions_and_source_takes": true
   }
 }

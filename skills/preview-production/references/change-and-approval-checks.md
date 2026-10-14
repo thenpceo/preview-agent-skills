@@ -1,6 +1,6 @@
 # Change and approval checks
 
-Read before changing production structure, replacing shared content, promoting references or recording approval. These checks support authorized work; they do not require repeating permission for an exact change the user already specified.
+Read before changing production structure, replacing shared content, selecting approved baselines or recording approval. These checks support authorized work; they do not require repeating permission for an exact change the user already specified.
 
 ## Inspect and propose the smallest change
 
@@ -34,25 +34,25 @@ Record the reference approver, internal reviewer, final shot/creative approver a
 
 Approval evidence identifies exact item/take or attachment ID, variation/state, phase/purpose, version, brief validity, approving person/role, decision date and traceable source. An explicit decision from the designated approver in conversation, a review comment, or a documented meeting decision can qualify. Establish the requester's authority before treating their statement as the required approval. Do not require repetition of already available evidence.
 
-If authority is missing, ask who owns that approval. If authority is known but the exact decision is missing, ask narrowly: “Has the producer approved this exact character version for the reference library, or is it still a candidate?” Approval of appearance/wardrobe does not approve later animation/performance.
+If authority is missing for a required approval, ask who owns it. If authority is known but the exact decision is missing, ask narrowly about that version's acceptance. Saving selected images in a library folder needs no prior approval; recording an approved baseline or release does. Approval of appearance/wardrobe does not approve later animation/performance.
 
-## Draft metadata versus approved media
+## Direct-folder submission versus approval
 
-Creating a Character, Location or Prop placeholder is allowed during authorized setup. State that media/approval is pending and link it to the production items. Do not require approval just to name a draft identity.
+Creating a Character, Location or Prop master and `V001` folder is allowed during authorized setup. Artists save selected media there for review. Additional views share the version; iterations use `V002` onward and named looks use folders such as `Pajamas V001`. Follow [Versioned reference library](versioned-reference-library.md). Do not require prior approval or a References sequence assignment to save a selected image.
 
-Promotion into the canonical production reference set requires the configured reference approver's actual decision. Canvas placement, an artist's Final tag, provider completion or assignment to References does not satisfy this gate.
+Library membership, a version number, canvas placement, an artist's Final tag and provider completion are not approval. The current working version and last-approved image set remain separate records.
 
-1. Verify the exact candidate, owning review item, intended variation and current decision. Reuse valid evidence.
-2. If approval is missing, leave the candidate in its canvas/review item at Needs Review. Prepare the library mapping and ask for the missing decision; do not mark it approved or mix it into the approved set.
-3. If explicitly asked to save unapproved exploration, keep it visibly draft/provisional and separate through supported folders/descriptions or the canvas. Storage is not approval. Do not invent library statuses, locks or fields.
-4. Once approved, attach the exact source to the matching existing variation, retain its take/review link, and record the attachment mapping/evidence. Do not attach every group member.
-5. Replacing/removing approved attachments needs a clear new-baseline decision. Preserve history and identify stale dependencies; do not infer permission to regenerate them.
+1. Verify the master, intended look/version, exact selected images and source links. Save the chosen images directly into that folder and record pending review in version-labeled Details.
+2. Record comments and decisions against the exact folder/image set. Reuse valid approval evidence; do not invent native library statuses or folder approval fields.
+3. For changes, create the next version folder and retain earlier images/decisions. Added views of the same version need explicit image-level review.
+4. New prompts resolve the latest populated version of the intended look. Label pending inputs provisional. When a run requires approved references, verify the selected set or report the missing decision; do not silently select an older approved version.
+5. Approved-baseline and final-release claims require the configured approver's actual decision. Preserve history and identify stale dependencies after changes; do not infer permission to regenerate them.
 
-Library membership is not an approval source. Use the owning review record and exact approved attachment map. Shared states are reviewed once and reused; intentional different states may be separately reviewed.
+Use the version's recorded decision and exact approved attachment map. Shared states are reviewed once and reused; intentional different states may be separately reviewed. Existing References sequences and their decisions are preserved unless a live migration/removal is authorized; they are not required for new folder submissions.
 
 ## Status and release checks
 
-Normal path: To Do → In Progress → Needs Review → Internally Approved → Final Approved. Changes Requested and Blocked name the next action/owner; Archived is inactive history. Use actual project labels/IDs/native categories instead of silently rewriting menus.
+For film sequence items, the normal path is To Do → In Progress → Needs Review → Internally Approved → Final Approved. Changes Requested and Blocked name the next action/owner; Archived is inactive history. Use actual project labels/IDs/native categories instead of silently rewriting menus. Reference versions record equivalent review decisions in their shared Details/source comments where native folder statuses are absent.
 
 - Artist submissions may set Needs Review within assigned work.
 - Internally Approved requires the designated internal reviewer's exact-version decision.

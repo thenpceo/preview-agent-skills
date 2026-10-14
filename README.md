@@ -29,13 +29,15 @@ Ask the agent to use `$preview-production` for setup, production, review or deli
 
 For example:
 
-> Use $preview-production to set up this job with a category per script and the agreed milestone canvases inside each. Inspect existing records, preserve established work, and confirm approval authority before promoting references.
+> Use $preview-production to set up this job with a category per script and the agreed milestone canvases inside each. Inspect existing records and preserve established work. Save selected references directly into versioned library folders for review and record exact approval decisions separately.
 
 > Use $preview-provenance to inspect this saved Premiere sequence and map its clips to Preview take links and recipes. Keep unmatched or transformed media explicit.
 
 The default canvas hierarchy is **Project → script categories → milestone canvases → dated, initialed revision groups**. The lead adapts milestones to the actual job. Matching script shotlists contain deliverable sequences for review. Established projects are reorganized only when explicitly authorized.
 
 Shot and sequence descriptions stay short. Each logical film shot uses one row, with required A/B/C parts described there and their assets attached to it. Detailed notes and exact approvals remain available per part.
+
+Reusable references go directly into one master Character/Location/Prop entry's **V001, V002, …** folders for review, without a reference sequence first. Named looks use sibling folders such as **Pajamas V001** and **Pajamas V002**. Each folder can hold multiple views, extras member images or a composite; background ensembles use one Character group. New prompts explicitly select the latest populated version of the intended look. Preview's picker supports folders/images; automatic latest-version routing is not supplied by the skill.
 
 The production skill separates artist selections, exact-version approval and release. The provenance skill identifies source lineage; it does not establish approval.
 
