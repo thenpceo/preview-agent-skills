@@ -41,7 +41,14 @@
         ]
       }
     ],
-    "migration_requires_explicit_authorization": true
+    "migration_requires_explicit_authorization": true,
+    "shot_row_policy": {
+      "group_by": "logical_parent_shot_id",
+      "split_storyboard_panels_into_rows": false,
+      "required_parts_in": "Description/brief",
+      "asset_part_selection_and_approval_in": "Notes",
+      "optional_parts_remain_explicit": true
+    }
   },
   "approval_policy": {
     "confirmed": false,
@@ -76,5 +83,10 @@
     "codec": null,
     "audio": null
   },
-  "open_decisions": []
+  "open_decisions": [],
+  "description_policy": {
+    "shotlist_and_sequence": "One short purpose/coverage sentence, where a native field is supported.",
+    "shot": "One or two short sentences: action/framing plus required panels/parts.",
+    "detail_location": "Notes and native technical fields"
+  }
 }

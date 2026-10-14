@@ -58,6 +58,7 @@ Normal path: To Do → In Progress → Needs Review → Internally Approved → 
 - Internally Approved requires the designated internal reviewer's exact-version decision.
 - Final Approved requires the configured approver for that item type: references may need producer approval; film shots may need director approval.
 - Revisions inherit neither decision. Record the new candidate separately and return it to Needs Review.
+- A multipart shot's approval requires exact accepted coverage for every required A/B/C part. Map each required part to its selected take and decision in Notes; an optional/TBC part stays optional. Combining rows does not transfer a part's approval to another asset or establish a new decision.
 - If feedback invalidates the previous take for the current brief, record its unsuitability while retaining historical evidence. Optional exploration need not invalidate a still-valid approval.
 
 If one visible status cannot express both candidate review and an older valid approval, retain both IDs/decisions explicitly in Notes/select records. Do not claim a status toggle stores complete native approval history.

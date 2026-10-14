@@ -35,6 +35,8 @@ For example:
 
 The default canvas hierarchy is **Project → script categories → milestone canvases → dated, initialed revision groups**. The lead adapts milestones to the actual job. Matching script shotlists contain deliverable sequences for review. Established projects are reorganized only when explicitly authorized.
 
+Shot and sequence descriptions stay short. Each logical film shot uses one row, with required A/B/C parts described there and their assets attached to it. Detailed notes and exact approvals remain available per part.
+
 The production skill separates artist selections, exact-version approval and release. The provenance skill identifies source lineage; it does not establish approval.
 
 ## Requirements

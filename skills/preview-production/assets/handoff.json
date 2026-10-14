@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "scope_id": null,
   "item_id": null,
   "shot_id": null,
@@ -34,5 +34,7 @@
   "next_action": null,
   "next_owner": null,
   "live_job_ids": [],
-  "updated_at": null
+  "updated_at": null,
+  "required_asset_parts": [],
+  "asset_part_selections": []
 }

@@ -8,6 +8,8 @@ A review deck may contain nominated pending work labeled with version/status. A 
 
 Verify the displayed/selected take before export: it can change while browsing alternates. Group download, selected files, sequence export and shotlist export are different scopes. Choose the requested one and compare files to the recorded IDs.
 
+A single logical shot row may require A/B/C assets, distinct from alternate attempts. Read its per-part selection/approval map and include every required chosen take. A selected-take sequence export may contain only the displayed choice; verify the exported coverage and use supported explicit file selection/download for missing required assets. One continuous clip can cover multiple required states when the brief calls for that. Record asset_part in the manifest/selects while retaining the same shotId; do not create extra production rows to make an export work.
+
 [Shotlist export](https://docs.preview.io/preview/settings-menu#export) creates media plus FCPXML, with selected/stacked alternates, audio, review burn-in and frame-rate options. [Sequence export](https://docs.preview.io/preview/scene-timeline) narrows the scope. Use selected takes for the agreed package; stacked alternates are for an explicitly intended internal handoff. UI availability does not establish a CLI export endpoint or editor compatibility. Verify the intended importer when timeline delivery matters.
 
 Acquire the original through supported download/export/media URLs, not a resized thumbnail. Inspect dimensions, duration, frame rate and readable files. Do not download simply to work around display restrictions. Record source clip/timecodes/handles for performance-based VFX.

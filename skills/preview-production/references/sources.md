@@ -19,3 +19,5 @@ Use scripts/discover_preview.py for help/catalog/core schemas, --schemas for a f
 When behavior changes, correct the narrow instruction and distinguish documented product behavior, interface-specific schema, observed UI and suggested production convention. Do not turn a historical absence of a field or one model failure into a universal restriction.
 
 Workflow revision: 2026-10-14. The preferred canvas hierarchy is script categories → milestone canvases → dated, initialed round groups. The former milestone-category hierarchy is superseded for new setups. Native canvas picker Section rename/Move to and alphabetical sorting were rechecked. This is a team convention; existing projects require an authorized migration.
+
+Review-row convention: concise Description/brief fields and one logical film-shot row for required A/B/C storyboard states or parts. Required assets are mapped per part in Notes/selects; sequence export must be checked for complete coverage. This is a workflow rule, not a native multi-part approval field.

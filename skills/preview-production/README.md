@@ -20,6 +20,8 @@ Choose actual scripts, milestone canvases, review scopes, names/counts, shots/re
 
 Agents inspect existing structure before writes. They adapt confirmed unused placeholders within authorized setup, ask before unrequested changes to established work, and verify exact approval before promoting reference media or marking final decisions. Draft library metadata can be created earlier. Installing the skill does not authorize paid generation, live migrations, sharing or sending media.
 
+Keep Description/brief fields short. One logical film shot uses one row per milestone; required A/B/C panels or parts are described there and their assets attach to that row. Notes retain detailed instructions and exact selections/approvals for every required part.
+
 ## Example requests
 
 > Use $preview-production to set up this new project with Script A and Script B categories, each containing References, First Frames and Animation canvases. Use script-prefixed titles and numbered milestones for clear ordering. Inspect existing records first, adapt untouched placeholders, and preserve established work. Build matching script shotlists with deliverable sequences, briefs, references and assignments without generating media.

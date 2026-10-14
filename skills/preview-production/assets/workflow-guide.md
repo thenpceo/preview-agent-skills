@@ -34,11 +34,13 @@ For a job with extra deliverables, adapt the sequences: References, Previz, Look
 
 Agree stable shot IDs and descriptive names from the creative script with the director. Use those IDs in every phase, for example SCRIPT_A_SH01 · Wide or SCRIPT_A_SH08 · Table high angle. A Preview row number can change when items move; the stable title is the production identity. Keep the same shot ID in First Frames and Animation, with independent approval in each sequence.
 
+Use one row for each logical film shot in every milestone. For SH07, write a short Description such as “Reveal the landscape, then pan to the performer. 7A and 7B required.” Attach both assets to that row; do not make separate 7A and 7B rows. One continuous video may cover several required storyboard states. Keep exact chosen takes and approvals per required part in Notes; alternate attempts are not additional requirements.
+
 Create enough items for the actual breakdown. Reference sequences use one item per independently reviewable character, prop, location view or visual state. A location wide and three detail views need four review items, even when all four will eventually belong to one Location variation.
 
 **4. Brief and assign the work inside Preview**
 
-For each item, fill the title, deliverable/purpose, brief and acceptance criteria. Add framing, angle, camera movement, lens intent, duration, dialogue/action and interior/exterior where relevant. Link the Character, Location and Prop entries it uses. Add relevant source media/reference links and explain their roles: appearance, composition, performance, timing or motion.
+Give shot lists and sequences a short purpose description where a native field is supported. Keep each shot Description/brief to one or two short sentences: the action/framing and required panels or parts. Put detailed instructions, source briefs, feedback, asset maps and approvals in Notes. Use technical fields for movement/lens intent, duration and interior/exterior, and link relevant Character/Location/Prop entries and source media.
 
 Assign a current artist; confirm the internal reviewer, reference approver, final creative approver and producer/release owner for the job. A common arrangement has producer approval for references and director approval for shots, but the actual policy must be recorded. Add real priorities and due dates when known. Put the active canvas/group link, dependencies and next action in Notes. Start required work at To Do. Leave unknown owners or dates explicit rather than guessing them.
 
@@ -87,6 +89,8 @@ In Progress — actively being developed. Interesting — promising alternate. R
 **4. Submit the exact take to its review item**
 
 Use the take's Select for control, choose the correct sequence and named item, or have your agent assign that existing take to the verified shot ID. Confirm the shot list as well as the sequence. Assignment keeps the work on its canvas; it does not require downloading and uploading another copy.
+
+When a row has several required parts, assign their media to that same shot and label the parts in Notes. Track current and last-approved selections for each part. Do not mark the whole shot complete or approved until every required part has valid exact-version approval. Leave optional or parked parts explicit.
 
 In Production/Shot Info, deliberately show the nominated take and set the item to Needs Review. Add what changed, what needs a decision and the exact version/take link. Record the candidate separately from the last valid approved take. Only nominate useful choices; the sequence is the review queue, not the full generation history.
 
@@ -139,6 +143,8 @@ Leave feedback in the take's comment thread, then summarize the action and owner
 **Package the approved work**
 
 1. Check required coverage and valid configured final approval for each item being released. A review presentation and a final release have different approval requirements.
+
+For a shot with multiple required assets, check the per-part asset map and package every required selected take. A sequence export may include only the displayed choice; verify coverage and use supported explicit file selection/download for missing parts.
 
 2. Confirm the displayed/selected take matches the recorded approved ID before download or sequence export. Preview export follows the displayed choice. Use Selected takes for the intended package; stacked alternates are for an agreed internal handoff.
 

@@ -1,1 +1,1 @@
-package_id,purpose,scope_id,item_id,phase,revision,take_id,relative_media_path,recipe_path,approval_state,approved_by,approved_at,approval_evidence,valid_for_current_brief,checksum_sha256,release_owner,release_status,sent_at,destination,receipt,accepted_at
+package_id,purpose,scope_id,item_id,asset_part,phase,revision,take_id,relative_media_path,recipe_path,approval_state,approved_by,approved_at,approval_evidence,valid_for_current_brief,checksum_sha256,release_owner,release_status,sent_at,destination,receipt,accepted_at

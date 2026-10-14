@@ -43,7 +43,7 @@ These are parallel structures: a canvas category does not contain a sequence. Ea
 | General asset/folder | assetId + folder name | Reusable files; distinct from typed entries and groups |
 | Script | scriptId | Screenplay or guide; edits do not update the breakdown automatically |
 
-Keep stable script shot IDs in titles across phases; row positions may change. Typed library entries may exist as draft metadata at setup. Promote their approved attachments only after the configured reference approval, with one owning review item per shared asset/state.
+Keep stable script shot IDs in titles across phases; row positions may change. **One logical film shot gets one sequence row.** Put required A/B/C panels or parts in its succinct Description/brief and attach their media to that same row; do not create separate SH07A/SH07B or Panel 7A/7B rows. Give shotlists/sequences a short purpose description where supported, and put detailed workflow, feedback and lineage in Notes. For a multipart shot, record the required asset set and exact selections/approvals per part; a displayed take alone does not establish full coverage. Read [Project workflow](references/project-workflow.md) for examples and safe consolidation. Typed library entries may exist as draft metadata at setup. Promote their approved attachments only after the configured reference approval, with one owning review item per shared asset/state.
 
 ## Essential checks
 
