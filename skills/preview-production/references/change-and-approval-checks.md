@@ -13,7 +13,7 @@ An unused template placeholder needs generic naming AND default/example content 
 | User specifies sequence names/order; only confirmed untouched placeholders exist | Briefly explain the mapping and adapt within setup authorization. Preserve useful IDs and verify names/order/counts. |
 | A lead created a meaningful sequence, canvas, breakdown or library entry | Reuse when appropriate. Ask before an unrequested replacement, rename, merge, move or restructure. |
 | Exact change to established work is explicitly approved | Apply that delta without asking again; preserve unrelated fields/history. |
-| A project's categories differ from this skill's preferred script → milestone hierarchy | Recommend the structure when relevant; do not migrate established categories just to match the skill. An authorized category migration moves existing canvases by ID and preserves groups, manual geometry, media, review records and approvals. |
+| A project's categories differ from this skill's preferred script → milestone hierarchy | Recommend the structure when relevant; do not migrate established categories just to match the skill. An authorized category migration moves existing canvases by ID and preserves groups, canvas positions, media, review records and approvals. |
 | A matching record exists under another name | Resolve its purpose before duplicating; ask about reuse/rename only when ambiguity affects the task. |
 | An addition would conflict or duplicate an approval queue | Prepare the concrete addition; confirm reuse, extension or separate deliverable. |
 | Shared Notes, Script or selection changed since inspection | Re-read and reconcile; stop the conflicting overwrite. Do not remove a precondition to force a retry. |
@@ -27,6 +27,14 @@ Examples:
 - “These entries appear to be the same character but have different variations. Should I reuse the existing identity or keep them separate?”
 
 Do not disguise replacement as routine setup. Approval to overwrite the skill does not authorize later overwrites of production records.
+
+## Daily group layout and discard checks
+
+Within authorized artist work, use today's dated group, place a new day's group to the right of the previous same-scope group, and use group-level Organize with verified chronological order. This replaces the old manual-row/revision-round default; it does not authorize sweeping layout changes to unrelated work.
+
+Keep mediocre and good takes. Delete explicitly discarded or clearly unusable throwaway attempts within the authorized scope; do not ask again for exact deletions already requested. Before deleting, check the take ID, current group, sequence assignments, library attachments, approval/comments and downstream source usage. A Rejected tag or lack of selection alone does not prove it is disposable. If the take participates in review, a reference set, or another output, explain the affected links and resolve that specific deletion decision first. Use the live tool's required confirmation/recovery controls and verify what was removed; do not assume removing a canvas card deletes the media or vice versa. No bulk deletion based only on age, mediocre quality or nonselection.
+
+Updating a guide or skill changes instructions only: it does not itself authorize deleting takes, moving live groups or renaming historical groups.
 
 ## Configure approval authority
 

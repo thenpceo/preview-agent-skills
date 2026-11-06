@@ -22,7 +22,7 @@ Inspect saveTakeToAssets/createAssetFolder/moveAssetsToFolder/updateAsset when f
 
 ## External packages and names
 
-Choose the actual authorized storage root at kickoff. Cloud URLs are not automatically mounted local paths; verify the real mount when needed. File by job / script-or-location scope / phase / item or package. Date working rounds and frozen review/release packs, not automatically reset daily canvases.
+Choose the actual authorized storage root at kickoff. Cloud URLs are not automatically mounted local paths; verify the real mount when needed. File by job / script-or-location scope / phase / item or package. Date daily work groups and frozen review/release packs, not automatically reset daily canvases.
 
 Keep a stable review index with Preview scope/sequence links and separate current-review and last-approved package pointers. A round package may combine unchanged earlier approvals with revised candidates, each labeled. Notifications point to the index/records; they are not a second source of truth. Sharing, invites and sending media need explicit authorization for that destination.
 

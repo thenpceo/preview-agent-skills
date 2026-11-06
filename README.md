@@ -8,7 +8,7 @@ Reusable skills for planning and running Preview projects, reviewing work, handi
 
 | Skill | What it does | Download |
 | --- | --- | --- |
-| Preview Production | Project setup, canvases and revision rounds, typed references, generation, approvals, artist handoffs and producer delivery. | [preview-production.zip](https://github.com/thenpceo/preview-agent-skills/releases/latest/download/preview-production.zip) |
+| Preview Production | Project setup, canvases and daily groups, typed references, generation, approvals, artist handoffs and producer delivery. | [preview-production.zip](https://github.com/thenpceo/preview-agent-skills/releases/latest/download/preview-production.zip) |
 | Preview Provenance | Traces local clips and saved Premiere cuts back to exact Preview takes, prompts, references and source lineage. | [preview-provenance.zip](https://github.com/thenpceo/preview-agent-skills/releases/latest/download/preview-provenance.zip) |
 
 These links point to the latest published release. Use the [release page](https://github.com/thenpceo/preview-agent-skills/releases/latest) for version notes and SHA-256 checksums.
@@ -33,7 +33,9 @@ For example:
 
 > Use $preview-provenance to inspect this saved Premiere sequence and map its clips to Preview take links and recipes. Keep unmatched or transformed media explicit.
 
-The default canvas hierarchy is **Project → script categories → milestone canvases → dated, initialed revision groups**. The lead adapts milestones to the actual job. Matching script shotlists contain deliverable sequences for review. Established projects are reorganized only when explicitly authorized.
+The default canvas hierarchy is **Project → script categories → milestone canvases → dated, initialed daily work groups**. The lead adapts milestones to the actual job. Matching script shotlists contain deliverable sequences for review. Established projects are reorganized only when explicitly authorized.
+
+Each new working day gets a group immediately to the right of the previous day for that work scope. Use Organize group to keep takes in chronological order, left to right and then top to bottom. Delete clearly unusable throwaway takes; keep mediocre and good options. Protect takes used in reviews, reference folders or downstream work.
 
 Shot and sequence descriptions stay short. Each logical film shot uses one row, with required A/B/C parts described there and their assets attached to it. Detailed notes and exact approvals remain available per part.
 

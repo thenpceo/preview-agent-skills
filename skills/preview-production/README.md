@@ -16,7 +16,7 @@ Use your own Preview account and authorized project. The [official CLI/connector
 
 ## What is configurable
 
-Choose actual scripts, milestone canvases, review scopes, names/counts, shots/reference coverage, assignees, reviewers, reference/final approvers, producer, storage root and output specs. The default is Project → script categories → milestone canvases → dated, initialed round groups. References / First Frames / Animation are example milestones; adapt them to the deliverables. Locations can have work groups/rows within a milestone canvas and reusable library entries. Producer reference approval and director shot approval is an example authority policy, confirmed per job.
+Choose actual scripts, milestone canvases, review scopes, names/counts, shots/reference coverage, assignees, reviewers, reference/final approvers, producer, storage root and output specs. The default is Project → script categories → milestone canvases → dated, initialed daily work groups. References / First Frames / Animation are example milestones; adapt them to the deliverables. Locations can have daily work groups within a milestone canvas and reusable library entries. Producer reference approval and director shot approval is an example authority policy, confirmed per job.
 
 Agents inspect existing structure before writes. They adapt confirmed unused placeholders within authorized setup and ask before unrequested changes to established work. Selected references go straight from canvas exploration into Character/Location/Prop version folders for review: V001, V002 and onward. Named looks share the master entry, for example Pajamas V001 and Pajamas V002. Multiple views or extras member images can share a folder; an extras composite is another option. Exact approval is recorded separately from storage. Installing the skill does not authorize paid generation, live migrations, sharing or sending media.
 
@@ -28,7 +28,7 @@ Keep Description/brief fields short. One logical film shot uses one row per mile
 
 > Use $preview-production to set up this new project with Script A and Script B categories, each containing References, First Frames and Animation canvases. Use script-prefixed titles and numbered milestones for clear ordering. Inspect existing records first, adapt untouched placeholders, and preserve established work. Build matching script shotlists with deliverable sequences, briefs, references and assignments without generating media.
 
-> Use $preview-production to prepare a revision of SH04 from its current take and feedback. Preserve the last approved choice, recover the full recipe and target the active round group. Report the proposed run separately from submission.
+> Use $preview-production to prepare a revision of SH04 from its current take and feedback. Preserve the last approved choice, recover the full recipe and target the current day's group, using chronological Organize group layout. Report the proposed run separately from submission.
 
 > Use $preview-production to save selected character, location and prop references directly into their V001 folders for review. Keep revisions in V002 onward and named looks under the same master. Preserve source images and exact review decisions; use the latest intended folder in new prompts.
 

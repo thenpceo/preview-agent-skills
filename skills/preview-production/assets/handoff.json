@@ -1,5 +1,5 @@
 {
-  "schema_version": 3,
+  "schema_version": 4,
   "scope_id": null,
   "item_id": null,
   "shot_id": null,
@@ -23,8 +23,6 @@
   },
   "active_canvas_link": null,
   "active_group_link": null,
-  "round": null,
-  "batch": null,
   "artist_initials": null,
   "recipe_paths": [],
   "parent_take_ids": [],
@@ -45,5 +43,8 @@
     "current_attachment_ids": [],
     "review_state": null,
     "decision_evidence": null
-  }
+  },
+  "work_date": null,
+  "work_timezone": null,
+  "group_scope": null
 }

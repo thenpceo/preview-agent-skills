@@ -24,7 +24,7 @@ Canvas categories describe the creative script. Each category contains that scri
 
 Multi-script example: Script A, Script B, Script C and Script D are four categories. Each contains its own References, First Frames and Animation canvases. Create four matching script shot lists, with deliverable sequences inside each.
 
-One-script example: one Script A category contains Previz + Lookdev, Animation and Final VFX canvases. Work on its locations in named groups or rows inside each milestone canvas. References and character development belong in Previz + Lookdev; Animation includes the AI draft/animatic. Use shared versioned Character/Location/Prop entries across milestones, with review state recorded separately. The lead may authorize a location-specific continuation canvas when the volume requires it; keep that canvas inside the script category.
+One-script example: one Script A category contains Previz + Lookdev, Animation and Final VFX canvases. Work on its locations in named daily work groups inside each milestone canvas. References and character development belong in Previz + Lookdev; Animation includes the AI draft/animatic. Use shared versioned Character/Location/Prop entries across milestones, with review state recorded separately. The lead may authorize a location-specific continuation canvas when the volume requires it; keep that canvas inside the script category.
 
 **2. Match the shot lists and sequences**
 
@@ -58,17 +58,17 @@ For revisions, create V002, then V003 and onward beneath the same master. Put th
 
 Named looks and states use sibling folders under the same master: Pajamas V001, Pajamas V002, Evening Clothes V001, or Night V001. Each look has its own version progression. Extra angles of the same look/version stay in that folder; added images are reviewed explicitly. These folder names implement the team’s version convention, not native automatic version history.
 
-Use one Character for each background ensemble, such as Scene Extras or Seville Tourists. If four extras are needed, put their four images in that group’s V001 folder, or use one composite of the four. Both methods are valid; label members and performance roles when needed. Four images consume four model reference slots, not one; check the chosen model’s limit. Keep individually required principal roles distinct. Attach approved voice sources for speaking roles when appropriate and verify model binding.
+Use one Character for each background ensemble, such as Scene Extras or Plaza Tourists. If four extras are needed, put their four images in that group’s V001 folder, or use one composite of the four. Both methods are valid; label members and performance roles when needed. Four images consume four model reference slots, not one; check the chosen model’s limit. Keep individually required principal roles distinct. Attach approved voice sources for speaking roles when appropriate and verify model binding.
 
 **6. Prepare the canvases and handoff**
 
-Use the template's Reference Sandbox, Archive and dated R00/R01 groups as a starting layout. In a reference canvas, the LOC, CHAR and PROP groups separate the work. In First Frames and Animation, SH01, SH02 and SH03 groups demonstrate shot passes. Add or remove unused sample groups and review items deliberately to match the real job.
+Prepare dated daily groups for the actual work scopes: a shot, first frame, animation, character, location or prop. Reference Sandbox can hold contextual sources, and earlier daily groups retain useful exploration. Adapt unused template examples to the actual job; do not replace meaningful existing work just to match a sample.
 
-Replace [DATE], [ScriptName] and [Initials]. ScriptName identifies the creative script. Use a separate location or item name when labeling work groups and rows. Keep groups flat: Preview does not nest groups. Paste headings where useful and use sticky notes for the brief, active work index and handoff. Dates and initials belong on round groups, not new daily canvases.
+Replace [DATE], [ScriptName] and [Initials]. ScriptName identifies the creative script. Include the shot, location or reference item to distinguish daily work groups. Keep groups flat: Preview does not nest groups. Paste headings where useful and use sticky notes for the brief, active work index and handoff. Dates and initials belong on daily work groups. Keep the same milestone canvases across days.
 
-Keep canvases across days. Date the groups and review packages. Versioned library folders provide the shared source across milestone canvases; select the latest intended version and record its review state instead of copying yesterday's whole board. The lead owns the initial organization, and artists preserve that manual layout. Agents adapt confirmed unused placeholders within setup authorization; they ask before unrequested changes to established sequences, canvases, shot plans or library identities.
+Keep canvases across days. Date the groups and review packages. Versioned library folders provide the shared source across milestone canvases; select the latest intended version and record its review state instead of copying yesterday's whole board. The lead owns the initial organization; artists use Organize group for active groups and preserve unrelated canvas content. Agents adapt confirmed unused placeholders within setup authorization; they ask before unrequested changes to established sequences, canvases, shot plans or library identities.
 
-Choose the external storage root (for example, Suite) and delivery specs at kickoff. Keep a stable review index with Preview shot list/sequence links, the current review package and the last approved package. Save native projects and recipe files under the relevant scope and phase. Dates belong on review packages and work rounds.
+Choose the external storage root (for example, Suite) and delivery specs at kickoff. Keep a stable review index with Preview shot list/sequence links, the current review package and the last approved package. Save native projects and recipe files under the relevant scope and phase. Dates belong on review packages and daily work groups.
 
 ## 02 — AI artist: make and submit work
 
@@ -76,17 +76,21 @@ Choose the external storage root (for example, Suite) and delivery specs at kick
 
 Open the right film shot list/phase sequence or reference master/version folder. Read the brief, current submission, last approved take/image set, unresolved comments and the latest intended reference folder’s review state. Check the intended canvas/group before starting. A new date, green tag or rightmost card does not establish the approved version.
 
-**2. Work in a dated, initialed round group**
+**2. Work in a dated daily group**
 
-Use one named shot, character or reference view per row. Iterate left to right within that row. Use the Reference Sandbox for contextual sources or experiments; keep the production reference's exact library/take link visible. Preserve manual placement. Never use Organize group or Tidy up on an artist's layout.
+On each new day that you work on a shot, first frame, animation or reference, create a new group immediately to the right of the previous group for that work, aligned at the top with a clear gap. Reuse today's matching group for all same-day iterations, including feedback changes. Keep yesterday's group and useful takes; resume from the exact parent take and recipe without copying yesterday's whole group.
 
-Group name: YYYY-MM-DD - scope/item - R##[-B##] - initials. Example: 2026-10-13 - LOC-LocationA - R01-B02 - AB. Include the phase when a canvas contains multiple kinds of work. Use the date the pass began. Initials identify who made the pass; the current assignee and handoff identify who owns the next step.
+Group name: YYYY-MM-DD - ScriptName - item/scope - initials. Examples: 2026-11-06 - Script A - SH07 - AB; 2026-11-06 - Script A - LOC-LocationA - AB. Use the project's working date/timezone. Include the phase when needed for clarity. Do not label daily groups Round 1, Round 2, R00 or R01. Initials identify the artist; the current assignee and handoff identify who owns the next step.
 
-R00 is the initial pass; R01 is a feedback revision. Start R01 only for items needing changes. Keep unchanged film approvals in their sequence slots and reference decisions tied to their exact folder/image sets. If a row becomes unwieldy after many attempts, continue the same round in B02 rather than making a huge endless row. Collapse finished groups or use the Archive area deliberately; retain history and its source links.
+Always use Organize group (auto-organize), with a manageable maximum column count. Takes read in chronological order: oldest to newest, left to right, then top to bottom. Check creation timestamps and the resulting order; Organize creates a grid but should not be assumed to sort dates automatically. Canvas rows are the wrapped chronological grid. The one-logical-shot-row rule still applies in sequences.
+
+Delete truly bad, unusable throwaway takes. Keep mediocre and good options in the group, including unselected alternatives. Before deleting, check the exact take and whether it is in a review, reference folder or downstream recipe; preserve that history unless its removal is explicitly decided. Agents should not treat uncertainty or a Rejected tag as permission for bulk deletion.
+
+Collapse older daily groups when useful. Media versions and library V001/V002 folders still track asset changes independently of the group date; a new day does not invalidate an approval or automatically require a new library version.
 
 **3. Use canvas tags for working choices**
 
-In Progress — actively being developed. Interesting — promising alternate. Rejected — discarded attempt. Needs Review — working review marker. Final — the artist's nominated choice. These are shared project tags; filter by Author when reviewing your own work. Final does not grant official approval.
+In Progress — actively being developed. Interesting — promising alternate. Rejected — unsuitable candidate retained when it has review/source history; delete unusable throwaways after checking usage. Needs Review — working review marker. Final — the artist's nominated choice. These are shared project tags; filter by Author when reviewing your own work. Final does not grant official approval.
 
 **4. Submit references to version folders; film takes to sequence items**
 
@@ -184,7 +188,7 @@ CURRENT SUBMISSION: [take/version/link/status or none]
 
 LAST APPROVED: [take/version/link/evidence; valid for current brief yes/no or none]
 
-ACTIVE WORK: [canvas/group link; R##/B##; artist initials]
+ACTIVE WORK: [canvas/group link; YYYY-MM-DD; script/item; artist initials]
 
 RECIPE / SOURCES: [prompt/settings/ref bindings; parent take IDs; native source/workflow paths]
 
@@ -198,7 +202,7 @@ LIVE JOBS / UPDATED AT: [IDs if running; timestamp]
 
 **Lead setup request**
 
-“Read this workflow guide and the creative script. Set up [project] with one category per [script] and [milestone] canvases inside each. Build the matching script shot lists, deliverable sequences and named review items; fill briefs and references; assign the agreed artists. Preserve existing canvas layouts. Report missing decisions and verify the resulting records. Do not generate media.”
+“Read this workflow guide and the creative script. Set up [project] with one category per [script] and [milestone] canvases inside each. Build the matching script shot lists, deliverable sequences and named review items; fill briefs and references; assign the agreed artists. Use dated daily groups and chronological Organize group layout within the assigned work; preserve unrelated canvas content. Report missing decisions and verify the resulting records. Do not generate media.”
 
 **Artist handoff request**
 
@@ -208,7 +212,7 @@ LIVE JOBS / UPDATED AT: [IDs if running; timestamp]
 
 “Audit [shot list/phase] for current nominated takes, missing coverage, unresolved feedback and valid final approvals under the project policy. Prepare a review package or approved release manifest as specified, with exact take IDs and recipe links. Report exported, sent and accepted as separate states.”
 
-Agents maintain the shared Preview records and reconcile the package manifest. They should use supported CLI/MCP tools for data and the normal UI for features absent from those tools. They must re-read shared Notes before edits, preserve manual layout and avoid treating tags, completion or provenance as human approval.
+Agents maintain the shared Preview records and reconcile the package manifest. They should use supported CLI/MCP tools for data and the normal UI for features absent from those tools. They must re-read shared Notes before edits, maintain daily groups and chronological auto-organized take grids, and avoid treating tags, completion or provenance as human approval.
 
 **Before the first production run**
 

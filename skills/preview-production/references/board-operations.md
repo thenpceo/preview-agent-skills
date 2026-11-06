@@ -1,6 +1,6 @@
 # Canvas UI, staging and comments
 
-Read [Project workflow](project-workflow.md) for script/milestone/round conventions and [Change and approval checks](change-and-approval-checks.md) before altering established work. This file covers supported UI mechanics and evidence.
+Read [Project workflow](project-workflow.md) for script/milestone/daily-group conventions and [Change and approval checks](change-and-approval-checks.md) before altering established work. This file covers supported UI mechanics and evidence.
 
 ## Script categories and milestone canvases
 
@@ -10,19 +10,23 @@ Canvas categories appear as Sections in the observed canvas picker. Use one per 
 
 Verify canvas/group IDs, representative files, exact source references and assignments. Refresh after human changes or duplication: copies can have new IDs. A matching thumbnail/name is not identical lineage. Checked CLI lists/targets groups but lacks precise card-coordinate/group-layout mutations; recheck live support before choosing UI.
 
-Use normal computer-use UI, or human help when UI is unavailable. Do not edit DOM styles/editor stores, invent geometry flags or use undocumented clipboard payloads. Create/rename new groups when delegated; preserve existing manual rows and **never use Organize group/Tidy up on existing artist layouts**.
+Use normal computer-use UI, or human help when UI is unavailable. Do not edit DOM styles/editor stores, invent geometry flags or use undocumented clipboard payloads. Create/rename daily groups within the delegated work, and **always use the group-level Organize action for the active group**. Preserve unrelated groups, notes and canvas positions; a documentation update alone does not authorize reorganizing live boards.
 
 ## Groups and placement
 
-[Groups](https://docs.preview.io/preview/groups) can be created through canvas context menu or selected-file Group actions. Normal UI supports names/colors, links, duplication, export, ungrouping and group generation targeting. A Collapse group control was observed in the checked UI; use it when available for completed rounds. Flat groups are the workflow's organizing unit, with no nested groups.
+[Groups](https://docs.preview.io/preview/groups) can be created through canvas context menu or selected-file Group actions. Normal UI supports names/colors, links, duplication, export, ungrouping and group generation targeting. A Collapse group control was observed in the checked UI; use it when available for earlier daily groups. Flat groups are the workflow's organizing unit, with no nested groups.
 
 Enter targets the group's generation session in Files view; the prompt-box group chip changes destination. That session ID is not the shape groupId used by generation tools. Ungroup retains files; recover accidental grouping with normal Undo/Ungroup and inspect the result.
 
-Use pasted text headings and sticky notes for brief/index/handoff. To save member files to library, use supported Add to/file operations for exact approved sources; a group is not a Character/Location/Prop entry.
+Use pasted text headings and sticky notes for brief/index/handoff. To save member files to library, use supported Add to/file operations for selected reference sources, with review state recorded separately; a group is not a Character/Location/Prop entry.
 
-[Next Take Box](https://docs.preview.io/preview/next-take-box) is a UI placement target. Its grid width can cause a row to settle below the intended point; group targeting uses group placeholders. Inspect new-take position without automatically arranging other material.
+[Next Take Box](https://docs.preview.io/preview/next-take-box) is a UI placement target. Its grid width can cause a row to settle below the intended point; group targeting uses group placeholders. After new takes are placed, use Organize on the intended group and verify its chronological grid. Leave unrelated groups unchanged.
 
-When placement is requested, verify correct item identity, row alignment, left-to-right attempt order, non-overlap, top-to-bottom coverage, intended membership and retained unrelated work. Capture useful native screenshot/geometry evidence. Group counts alone do not prove row order or placement; a local contact sheet is not proof of a native arrangement.
+For each new working date, put the new same-scope group immediately to the right of its predecessor, aligned at the top with enough space to avoid overlap. Use `YYYY-MM-DD - ScriptName - item/scope - initials`; reuse today's matching group rather than creating another feedback round.
+
+The documented group menu offers **Set max columns** and **Organize**, which arranges files into a grid. Use that auto-organize control, then verify oldest-to-newest reading order across rows (left to right, then top to bottom) from take creation timestamps. The docs do not promise a chronological sort option: inspect the live UI/API and use only supported ordering controls. If the resulting order cannot be corrected through supported controls, report that limitation instead of claiming it is sorted or inventing an API. Stable ties can retain current order. Newer completion/import times do not make an older source take a new generation.
+
+Verify membership, chronology, non-overlap and retained unrelated work in the native canvas. Capture useful screenshot/geometry evidence. A take count or local contact sheet does not prove native ordering. Delete only identified unusable throwaways within authorized work; keep mediocre and good takes. Inspect whether the current Delete action removes a canvas shape or the underlying take, and check review/library/downstream usage before deletion. Never delete a whole group to remove a few bad takes.
 
 ## File surfaces and recovery
 

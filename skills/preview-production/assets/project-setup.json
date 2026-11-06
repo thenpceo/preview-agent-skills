@@ -1,5 +1,5 @@
 {
-  "schema_version": 3,
+  "schema_version": 4,
   "kind": "project_setup_specification_not_api_payload",
   "project_id": null,
   "project_name": null,
@@ -15,7 +15,7 @@
       "First Frames",
       "Animation"
     ],
-    "canvas_title_pattern": "{script_name} · {milestone_order:02d} {milestone_name}",
+    "canvas_title_pattern": "{script_name} \u00b7 {milestone_order:02d} {milestone_name}",
     "script_categories": [
       {
         "script_name": null,
@@ -107,5 +107,18 @@
     "review_record_home": "master Details/description labeled by folder, linked source comments",
     "latest_and_approved_are_separate": true,
     "preserve_older_versions_and_source_takes": true
+  },
+  "canvas_group_policy": {
+    "boundary": "new working day per work scope",
+    "name_pattern": "YYYY-MM-DD - ScriptName - item/scope - initials",
+    "work_timezone": null,
+    "placement": "right of previous same-scope daily group, top-aligned with clear gap",
+    "reuse_same_day_group": true,
+    "revision_round_labels": false,
+    "auto_organize": true,
+    "take_order": "creation timestamp ascending, left to right then top to bottom",
+    "verify_order_after_organize": true,
+    "retain": "mediocre and good takes, reviewed/source-linked history",
+    "delete": "identified unusable throwaways within authorized work after usage checks"
   }
 }
